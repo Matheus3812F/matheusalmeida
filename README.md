@@ -6,7 +6,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="video.gif" width="250">
+      <img src="video.gif" style="width: 250px; max-width: 80vw; height: auto;" class="gif-responsive">
     </td>
     <td style="padding-left: 20px; vertical-align: middle;">
       <p>💻 Entusiasta de tecnologia</p>
@@ -16,6 +16,16 @@
     </td>
   </tr>
 </table>
+
+<style>
+  /* Estilo responsivo: quando a tela for menor que 500px */
+  @media (max-width: 500px) {
+    .gif-responsive {
+      width: auto;        /* largura automática */
+      height: 400px;      /* altura maior */
+    }
+  }
+</style>
 
 ### 🎓 Formação
 - Técnico em Informática pelo Instituto Federal da Paraíba (IFPB) - Campus Catolé do Rocha  

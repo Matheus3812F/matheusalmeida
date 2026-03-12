@@ -48,7 +48,7 @@
   <img align="center" alt="Banco de Dados" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="Banco de Dados (XAMPP)">
 </div>
 
-### 🌐 Contato & Redes Sociais
+<h1 align="center">🌐 Contato & Redes Sociais</h1>
 <div>
   <a href="https://www.instagram.com/matheus_al_rg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:matheus.ifpb.docs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>

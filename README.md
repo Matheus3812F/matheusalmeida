@@ -3,7 +3,9 @@
 <h1 align="center">👋 Olá, eu sou Matheus Almeida Rigueira</h1>
 <h3 align="center">💻 Entusiasta de tecnologia e programação | Suporte e manutenção de computadores</h3>
 
-<img align="right" alt="coding" width="250" border=:5 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="center" alt="coding" width="250" 
+     src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+     style="border: 5px solid #000000; border-radius: 10px;">
 
 💻 Entusiasta de tecnologia  
 🔧 Manutenção e suporte em computadores  

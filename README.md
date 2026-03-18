@@ -58,8 +58,18 @@
 <br>
 <br>
 <p align="center">
-  <img height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusalrg&layout=compact&langs_count=8&card_width=320&theme=tokyonight&v=1"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em"
+          src="https://github-readme-stats.vercel.app/api?username=matheusalrg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalrg&layout=compact&langs_count=8&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <h1 align="center">🌐 Contato & Redes Sociais</h1>

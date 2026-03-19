@@ -36,7 +36,7 @@
 - Trabalho em equipe e capacidade de adaptação  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheusalrg&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusalrg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Total%20Commits%20(2026)"/>
 </p>
 
 <h1 align="center">🔧 Tecnologias e Linguagens</h1>

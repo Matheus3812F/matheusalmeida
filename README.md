@@ -36,9 +36,7 @@
 - Trabalho em equipe e capacidade de adaptação  
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusalrg/matheusalrg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusalrg/matheusalrg/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheusalrg/matheusalrg/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 </picture>
 
 <h1 align="center">🔧 Tecnologias e Linguagens</h1>
@@ -62,7 +60,7 @@
     <tr>
       <td>
         <img height="180em"
-          <img src="https://raw.githubusercontent.com/matheusalrg/gitrepo/output/snake.svg" alt="Snake animation" />
+          src="https://github-readme-stats.vercel.app/api?username=matheusalrg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       </td>
       <td>
         <img height="180em"

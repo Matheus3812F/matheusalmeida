@@ -3,19 +3,20 @@
 <h1 align="center">👋 Olá, eu sou Matheus Almeida Rigueira</h1>
 <h3 align="center">💻 Entusiasta de tecnologia e programação | Suporte e manutenção de computadores</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="video.gif" width="250">
-    </td>
-    <td style="padding-left: 20px; vertical-align: middle;">
-      <p>💻 Entusiasta de tecnologia</p>
-      <p>🔧 Manutenção e suporte em computadores</p>
-      <p>📚 Estudando programação e desenvolvimento</p>
-      <p>🚀 Sempre aprendendo novas tecnologias</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em"
+          src="https://github-readme-stats.vercel.app/api?username=matheusalrg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalrg&layout=compact&langs_count=8&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ### 🎓 Formação
 - Técnico em Informática pelo Instituto Federal da Paraíba (IFPB) - Campus Catolé do Rocha  

@@ -62,7 +62,7 @@
     <tr>
       <td>
         <img height="180em"
-          src="https://github-readme-stats.vercel.app/api?username=matheusalrg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+          <img src="https://raw.githubusercontent.com/matheusalrg/gitrepo/output/snake.svg" alt="Snake animation" />
       </td>
       <td>
         <img height="180em"

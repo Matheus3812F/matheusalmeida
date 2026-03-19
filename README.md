@@ -56,20 +56,18 @@
 <br>
 <br>
 
-  <p align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img height="180em"
-          src="https://github-readme-stats.vercel.app/api?username=matheusalrg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
-        <img height="180em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalrg&layout=compact&langs_count=8&theme=tokyonight"/>
-      </td>
-    </tr>
-  </table>
-</p>
+  <table align="center">
+  <tr>
+    <td align="center">
+      <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=matheusalrg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </td>
+    <td align="center">
+      <img height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalrg&layout=compact&langs_count=8&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">🌐 Contato & Redes Sociais</h1>
 

@@ -35,12 +35,9 @@
 - Comunicação eficaz, criatividade e empatia  
 - Trabalho em equipe e capacidade de adaptação  
 
-<div align="center">
-
-### 🐍 Total Commits This Year
-<img src="https://raw.githubusercontent.com/matheusalrg/matheusalrg/output/snake.svg" alt="Snake animation" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matheusalrg/matheusalrg/output/snake.svg" alt="Snake animation" />
+<p>
 
 <h1 align="center">🔧 Tecnologias e Linguagens</h1>
 

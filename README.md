@@ -36,7 +36,7 @@
 - Trabalho em equipe e capacidade de adaptação  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matheusalrg/matheusalrg/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/matheusalrg/matheusalrg/output/snake.svg" alt="Snake animation"&v=1/>
 <p>
 
 <h1 align="center">🔧 Tecnologias e Linguagens</h1>
